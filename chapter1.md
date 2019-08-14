@@ -632,7 +632,7 @@ xp: 100
 skills: 1
 ```
 
-You recall how you can find the columnn names in a dataframe by printing the whole dataframe. Well, that's fine with a small dataframe, but not that helpful when your dataframe has thousands of rows. Here are a few helpful functions to get column names from dataframes:
+You recall how you can find the column names in a dataframe by printing the whole dataframe. Well, that's fine with a small dataframe, but not that helpful when your dataframe has thousands of rows. Here are a few helpful functions to get column names from dataframes:
 
 `names()` returns the column names of a dataframe
 `head()` returns the column names and top few rows of a dataframe
